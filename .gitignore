@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+
+secrets.py
 __pycache__/
 *.py[cod]
 *$py.class
@@ -127,3 +129,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+big_data.csv
+
+data_test.json
+
+
+
